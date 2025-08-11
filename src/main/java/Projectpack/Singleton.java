@@ -19,7 +19,12 @@ public class Singleton {
 		    System.out.println(System.identityHashCode(a2));
 		    System.out.println(System.identityHashCode(a3));
 		
-			
+		
+		    
+		    
+		    
+		    
+		    
 		}
 	}
 
